@@ -1,3 +1,5 @@
+**Currently looking for a web3 dev, don't hesitate to contact me
+
 
 <!--
 **arthur-02/arthur-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
