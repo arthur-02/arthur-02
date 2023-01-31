@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*Arthur - **Blockchain Engineer**
+*Arthur* - **Blockchain Engineer**
 
 🔭I am a Blockchain Engineering Student, and this is my personal repository for showcasing my work and projects related to blockchain technology. Here, you can find my portfolio and some of my recent work, including projects and experimentation with different blockchain platforms and tools.
 
