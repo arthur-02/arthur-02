@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[Arthur] - *Blockchain Engineer*
+
+I am a Blockchain Engineering Student, and this is my personal repository for showcasing my work and projects related to blockchain technology. Here, you can find my portfolio and some of my recent work, including projects and experimentation with different blockchain platforms and tools.
+
+*Skills and Technologies*
+
+Smart Contract Development and Deployment
+Decentralized Application (DApp) Development
+Solidity and Truffle
+Web3.js and React.js
+Web Development (PHP, JavaScript)
+
+
+Feel free to connect with me on LinkedIn.
+
+If you want to collaborate on any projects or have any questions, please don't hesitate to reach out to me at [email address].
