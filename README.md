@@ -1,4 +1,4 @@
-# **[Currently looking for a web3 dev, don't hesitate to contact me]**
+# **[Currently looking for a web3 dev INTERSHIP, don't hesitate to contact me]**
 
 
 <!--
